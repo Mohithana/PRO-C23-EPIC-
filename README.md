@@ -1,1 +1,1 @@
-# PRO-C23-EPIC-
+# project-c23-template
